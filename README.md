@@ -5,7 +5,6 @@ A comprehensive Flutter application for managing vehicle service stations. This 
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Folder Structure](#folder-structure)
@@ -25,15 +24,6 @@ A comprehensive Flutter application for managing vehicle service stations. This 
 - **Notifications:** Timely reminders and updates via push notifications.
 - **Admin Dashboard:** Manage bookings, track service progress, and generate reports.
 - **Profile Management:** Edit and maintain user and vehicle profiles.
-
----
-
-## Screenshots
-
-<!-- Add your screenshots here -->
-<!-- Example: -->
-<!-- ![Home Screen](screenshots/home_screen.png) -->
-<!-- ![Booking Screen](screenshots/booking_screen.png) -->
 
 ---
 
